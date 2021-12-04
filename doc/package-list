@@ -1,0 +1,11 @@
+lmm.controller
+lmm.controller.admin
+lmm.controller.interfaces
+lmm.controller.user
+lmm.exception
+lmm.main
+lmm.mediaworker
+lmm.model
+lmm.view
+lmm.view.admin
+lmm.view.user
